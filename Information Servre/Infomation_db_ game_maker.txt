@@ -1,0 +1,9 @@
+Server: game-maker-db-server-qt
+
+Server Full: game-maker-db-server-qt.database.windows.net
+
+Data Base Name: Game Maker
+
+Admin: ivar.vii.7
+
+Pass: 01001001_Dbgame_x
