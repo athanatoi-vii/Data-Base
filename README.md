@@ -9,4 +9,6 @@ This UI can connect to a database on Microsoft Azure servers, modify the data in
 این پنجره به یه دیتابیس از سرور های ماکروسافت آژور میتونه متصل و دیتا هارو درون اون تغیر و از همون سرور نمایش میده که نیاز به اتصال اینترنت داره.
 
 ---
-![User Interface]()
+
+# User Interface:
+![User Interface](https://github.com/athanatoi-vii/Data-Base/blob/main/Picther/Main_page.png)
